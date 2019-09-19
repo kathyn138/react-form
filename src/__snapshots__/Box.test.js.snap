@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div>
+  <button>
+    X
+  </button>
+  <br />
+  <div
+    style={
+      Object {
+        "backgroundColor": undefined,
+        "height": "undefinedpx",
+        "width": "undefinedpx",
+      }
+    }
+  />
+</div>
+`;
